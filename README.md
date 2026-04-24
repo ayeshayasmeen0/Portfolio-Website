@@ -6,6 +6,7 @@
 ---
 
 ## 🎯 Objective
+
 Passionate CS student with expertise in full-stack development, data analytics, and 3D game development. I love building meaningful tech solutions that solve real-world problems.
 ---
 
